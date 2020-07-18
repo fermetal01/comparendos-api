@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "co.edu.ucentral.app",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "microservice",
+    "baseName": "comparendos",
+    "packageName": "co.edu.ucentral.app",
+    "packageFolder": "co/edu/ucentral/app",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "MDY1NGVkOWI3ZTQ2YThlNmYxYzEzN2QyOThmYWYyODkzZDA0ZWE0YjNkOTMzMmViNzhlODYwNmU1OWYxOWRkODA3NjNmZjdjOGM0MzZkOTkyMWNiZGNkYjUzMmE5MTc3ZmMwOWU4N2UxZWNkYjZlOWRhNGNhZDkxOGQ2ZjNiNzI=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1595097372312,
+    "testFrameworks": ["gatling"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "es",
+    "languages": ["es"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
